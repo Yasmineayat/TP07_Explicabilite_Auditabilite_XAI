@@ -1,0 +1,30 @@
+{
+  "foret fraude@production": {
+    "f1": 0.8669,
+    "fraudes_detectees": 114
+  },
+  "logistique, montant brut": {
+    "f1": 0.7407,
+    "fraudes_detectees": 90
+  },
+  "logistique, log10(montant)": {
+    "f1": 0.8593,
+    "fraudes_detectees": 113
+  },
+  "arbre profondeur 2 (4 feuilles)": {
+    "f1": 0.2293,
+    "fraudes_detectees": 18
+  },
+  "arbre profondeur 3 (8 feuilles)": {
+    "f1": 0.5737,
+    "fraudes_detectees": 72
+  },
+  "arbre profondeur 6 (50 feuilles)": {
+    "f1": 0.751,
+    "fraudes_detectees": 95
+  },
+  "arbre profondeur None (206 feuilles)": {
+    "f1": 0.7556,
+    "fraudes_detectees": 102
+  }
+}
